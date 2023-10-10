@@ -1,0 +1,111 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side{
+    flex: 20%;
+    /* background-color: #f1f1f1; */
+    padding: 0;
+}
+
+.new-head-text{
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.add-student-coordinator-details{
+    font-size: 13px;
+    font-weight: 600;
+    padding-bottom: 1rem;
+    padding-top: 11px;
+    margin-top: 20px;
+}
+
+.form-card{
+    background-color: #fff;
+    padding: 40px;
+}
+
+.coordinator-details-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 16px;
+}
+
+.avatar{
+    width: 110px;
+    height: 110px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+
+.input-field-wrapper{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.add-student-coordinator-label{
+    font-weight: 600;
+    color: #1c1c1c;
+    opacity: .69;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.new-coordinator-input{
+    border-radius: 10px;
+    border: 1px solid #CAD0D6;
+}
+
+.error-new-coordinator-input{
+    border: 1px solid #ff0000; 
+    box-shadow: 0 0 3px #ff0000;
+    
+}
+
+.error-text{
+    font-size: 14px;
+    color: #FF0000;
+}
+
+.student-coordinator-button{
+    font-size: 13px;
+    margin: 10px;
+    color: #fff;
+    border-radius: 9px;
+    opacity: 1;
+    height: 36px;
+    width: 132px;
+    border: none;
+}
+
+
+
+.student-coordinator-btn-cancel{
+    background-color: #6c757d;
+}
+
+.student-coordinator-btn-cancel:hover{
+    background-color: #5c636a;
+}
+
+.student-coordinator-btn-submit{
+    background-color: #21d59b;
+}
+
+.student-coordinator-btn-submit:hover{
+    background-color:#157347 ;
+}
+
+.student-form-buttons{
+    margin-top: 30px;
+}
+
+

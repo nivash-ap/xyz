@@ -1,0 +1,58 @@
+.coordinator-card-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1fr 1fr 1fr 2fr 1fr;
+    padding: 10px 0;
+    color: #808080;
+    border-bottom: 1px solid #D3D3D3;
+}
+
+.coordinator-card-wrapper > div {
+    padding: 0 8px;
+    
+}
+.coordinator-profile-wrapper img{
+    padding-left: 10px;
+}
+.coordinator-status-btn{
+    color: #fff;
+    border-radius: 5px;
+    font-size: 12px;
+    
+
+}
+.coordinator-status-btn.active{
+    background-color: #21D59B;
+    border: none;
+    padding: 5px 25px;
+    width: 100%;
+}
+.coordinator-status-btn.inactive{
+    background-color:  #7E84A3;
+    border:none;
+    padding: 5px 20px;
+    width: 100%;
+
+}
+.coordinator-name{
+    color: #000;
+    font-weight: 500;
+    font-size: 14px;
+}
+.coordinator-id{
+    font-size: 12px;
+}
+
+.coordinator-action-btns-wrapper{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+.fa-icon{
+    font-size: 20px;
+    padding: 5px;
+
+}
+.coordinator-action-btns-wrapper > div{
+    border: 1px solid #D3D3D3;
+    cursor: pointer;
+}

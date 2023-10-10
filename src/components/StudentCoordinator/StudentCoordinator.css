@@ -1,0 +1,54 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side{
+    flex: 20%;
+    /* background-color: #f1f1f1; */
+    padding: 0;
+    
+}
+
+.main{
+    flex: 80%;
+    height: auto;
+    padding: 35px;
+    /* flex-direction: column; */
+    background-color: #f4f7fc;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.head-text{
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-size: 18px; 
+}
+
+
+.study-page-header{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.btn-primary1{
+    border: none;
+    color: white;
+    padding: 0px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    height: 40px;
+    /* float: r */
+}
+
+.student-coordinators-container{
+    width: 100%;
+    height: auto;
+    margin-bottom: 10vh;
+}
+

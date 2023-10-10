@@ -1,0 +1,63 @@
+
+
+.profileBtn{
+    background-color: transparent;
+    border: none;
+}
+
+.dropdown-menu{
+width: 60px;
+}
+
+nav{
+    background: #FFFFFF 0% 0% no-repeat padding-box!important;
+    box-shadow: 0px 1px 4px #15223214;
+}
+
+.lang{
+    width: 23px;
+    height: 20px;
+    margin-right: 5px;
+
+}
+
+.text{
+    width: 97px;
+    height: 30px;
+    border-color: #c4c4c4;
+    border-radius: 8px;
+    color: #606060;
+    border-style: none;
+    font-size: 14px;
+    background-color: transparent;
+    margin-right: 30px;
+}
+
+.logo{
+    height: 42px!important;
+    margin-left: 5px!important;
+}
+
+a{
+    font-size: 14px;
+}
+
+.profile{
+    margin-left: 3rem;
+}
+
+.dropdown-menu{
+    top: 40px!important;
+    left: 210px!important;
+}
+
+.navbar{
+padding-top: 0px;
+height: 60px;
+/* color: #5b5c5e;
+background: #FDFDFD 0% 0% no-repeat padding-box;
+box-shadow: 0px 1px 4px #15223214;
+border: 2px solid #FFFFFF;
+border-radius: 8px 8px 0 0;
+opacity: 1; */
+}

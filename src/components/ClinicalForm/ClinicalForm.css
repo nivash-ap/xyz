@@ -1,0 +1,186 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.side{
+    padding: 0;
+    width: 20%;
+}
+
+.main3{
+    padding: 35px;
+    background-color: #f4f7fc;
+    width: 80%;
+}
+
+.clinical-form-header{  
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.clinical-form-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    padding: 10px 10px 30px 55px;
+}
+
+.details-head{
+    font-size: 13px;
+    font-weight: 600;
+    padding-bottom: 1rem;
+    padding-top: 11px;
+    margin-top: 16px;
+}
+
+.clinical-form-label{
+    font-weight: 600;
+    color: #1c1c1c;
+    opacity: .69;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.clinical-form-input{
+    border-radius: 10px;
+    border: 1px solid #CAD0D6;
+}
+
+.clinical-error-input{
+    border: 1px solid #ff0000; 
+    box-shadow: 0 0 3px #ff0000;
+}
+
+.clinical-input-field-wrapper{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.err-text{
+    font-size: 14px;
+    color: #FF0000;
+}
+
+.right-side-div{
+    width: 60%;
+}
+
+.left-side-div{
+    width: 35%;
+}
+
+.contact-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.contact{
+    width:48%;
+}
+
+.select-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.multi-select-container{
+    /* display: flex; */
+    height: 200px;
+    overflow: auto;
+    flex-direction: column;
+    border-style: dashed;
+    border: 1px solid #CAD0D6;
+    border-radius: 11px;
+    padding: 15px 25px;
+}
+
+.multi-select-title{
+    font-size: 16px;
+    color: #1c1c1c;
+    text-align: left;
+}
+
+.multi-select-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.clinical-input-field-wrapper{
+    height: auto;
+
+}
+
+.radio{
+    width: 15px;
+    height: 15px;
+    margin-top: 6px;
+    margin-right: 4px;
+}
+
+.ckbox{
+    width: 15px;
+    height: 15px;
+    margin-top: 6px;
+    margin-right: 4px;
+}
+
+.add-image-container{
+    width: 90%;
+    height: 310px;
+    border: 1px dashed #A1A7C4;
+    border-radius: 18px;
+    margin-top: 40px;
+    background-color: #F4F7FC;
+}
+.img-text-title{
+    text-align: center;
+    font-size: 22px;
+    color: #A1A7C4;
+}
+.img-text{
+    text-align: center;
+    font-size: 12px;
+    color: #A1A7C4;
+}
+.add-img{
+    width:75%;
+    height:25%;
+    align-items: center;
+    padding: 30px;
+}
+.clinical-form-button{
+    font-size: 13px;
+    color: #fff;
+    border-radius: 9px;
+    opacity: 1;
+    height: 35px;
+    width: 130px;
+    border: none;
+    /* margin-left: 0px; */
+    margin-top: 35px;
+    margin-right: 15px;
+}
+.clinical-btn-cancel{
+    background-color: #6c757d;
+}
+    
+.clinical-btn-cancel:hover{
+    background-color: #5c636a;
+}
+    
+.clinical-btn-submit{
+    background-color: #21d59b;
+}
+    
+.clinical-btn-submit:hover{
+    background-color:#157347 ;
+}

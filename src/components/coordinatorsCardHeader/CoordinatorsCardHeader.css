@@ -1,0 +1,23 @@
+.student-coordinators-container-header{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1fr 1fr 1fr 2fr 1fr;
+    padding: 20px 0;
+    border-bottom: 1px solid #D3D3D3;
+    font-weight: 600;
+}
+
+.student-coordinators-container-header > div {
+    padding: 0 10px;
+}
+  
+.student-coordinators-container-header .no-sorting{
+    padding-left: 20px;
+}
+.student-coordinators-wrapper {
+    margin-top: 10px;
+}
+.header-col{
+    display: flex;
+    column-gap: 5px;
+    justify-content: flex-start;
+}

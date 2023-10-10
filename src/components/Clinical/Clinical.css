@@ -1,0 +1,76 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side{
+    flex: 20%;
+    /* background-color: #f1f1f1; */
+    padding: 0;
+}
+
+.main4{
+    flex: 80%;
+    padding: 35px;
+    /* flex-direction: column; */
+    background-color: #f4f7fc;
+    width: 100%;
+    margin-bottom: 50px;
+} 
+
+.clinical-page-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-text{
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-size: 18px; 
+}
+
+.clinical-card-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 30px;
+}
+.clinical-card-wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px; 
+  }
+
+.add-card-container{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 255px;
+    margin-bottom: 10vh;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    box-shadow: 0px 1px 4px #15223214;
+}
+
+/* .add-card-container{
+    width: 50px;
+    height: 60px;
+} */
+.add-image{
+    height: 150px;
+    width: 50px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.add-image-title{
+    font-size: 20px;
+    text-align:center;
+    color: #A1A7C4;
+}
+.add-image-text{
+    font-size: 11px;
+    text-align: center;
+    color:#A1A7C4; 
+}
