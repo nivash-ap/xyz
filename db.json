@@ -1,0 +1,263 @@
+{
+  "users": [
+    {
+      "username": "niv@gmail.com",
+      "password": "niv@123"
+    },
+    {
+      "username": "shiv@gmail.com",
+      "password": "shiv@123"
+    },
+    {
+      "username": "arun@gmail.com",
+      "password": "arun@123"
+    }
+  ],
+  "studentCoordinators": [
+    {
+      "firstName": "rajesh",
+      "lastName": "kumar",
+      "email": "kumar123@gmail.com",
+      "phoneNumber": "2345678990",
+      "address": "banglore",
+      "city": "hoody",
+      "state": "chennai",
+      "pincode": "234567",
+      "age": "Between 41-60",
+      "occupation": "Business",
+      "status": true,
+      "creationDate": "14/08/2023",
+      "expiryDate": "13/09/2023",
+      "id": 2
+    },
+    {
+      "firstName": "raj",
+      "lastName": "keshav",
+      "email": "raj123@gmail.com",
+      "phoneNumber": "2345678990",
+      "address": "bankok",
+      "city": "thailand",
+      "state": "pattaya",
+      "pincode": "345632",
+      "age": "Between 41-60",
+      "occupation": "Business",
+      "status": false,
+      "creationDate": "14/08/2023",
+      "expiryDate": "13/09/2023",
+      "id": 3
+    },
+    {
+      "firstName": "fjghdkud",
+      "lastName": "kumar",
+      "email": "seenikumar@gmail.com",
+      "phoneNumber": "2345678990",
+      "address": "banglore",
+      "city": "hoody",
+      "state": "chennai",
+      "pincode": "234567",
+      "age": "Between 41-60",
+      "occupation": "Business",
+      "status": true,
+      "creationDate": "15/08/2023",
+      "expiryDate": "14/09/2023",
+      "id": 4
+    },
+    {
+      "firstName": "Nivash",
+      "lastName": "anandh",
+      "email": "niv123@gmail.com",
+      "phoneNumber": "2345678990",
+      "address": "trichy",
+      "city": "trichy",
+      "state": "tamilnadu",
+      "pincode": "232345",
+      "age": "Between 41-60",
+      "occupation": "Business",
+      "status": true,
+      "creationDate": "16/08/2023",
+      "expiryDate": "15/09/2023",
+      "id": 5
+    },
+    {
+      "firstName": "karthi",
+      "lastName": "kumar",
+      "email": "karthi@gmail.com",
+      "phoneNumber": "2345678990",
+      "address": "banglore",
+      "city": "hoody",
+      "state": "chennai",
+      "pincode": "234567",
+      "age": "Between 41-60",
+      "occupation": "Business",
+      "status": false,
+      "creationDate": "15/08/2023",
+      "expiryDate": "14/09/2023",
+      "id": 6
+    },
+    {
+      "firstName": "gokul",
+      "lastName": "mano",
+      "email": "mano765@gmail.com",
+      "phoneNumber": "2387643880",
+      "address": "andhra",
+      "city": "hydrabad",
+      "state": "telungana",
+      "pincode": "2998765",
+      "age": "Between 41-60",
+      "occupation": "Business",
+      "status": true,
+      "creationDate": "17/08/2023",
+      "expiryDate": "16/09/2023",
+      "id": 7
+    },
+    {
+      "firstName": "niv",
+      "lastName": "santh",
+      "email": "niv@145",
+      "phoneNumber": "9887765433",
+      "address": "banglore",
+      "city": "hoody",
+      "state": "chennai",
+      "pincode": "234567",
+      "age": "Between 18-24",
+      "occupation": "Education",
+      "status": true,
+      "creationDate": "16/08/2023",
+      "expiryDate": "15/09/2023",
+      "id": 8
+    },
+    {
+      "firstName": "Akash",
+      "lastName": "s",
+      "email": "aksh987@gmail.com",
+      "phoneNumber": "98765433456",
+      "address": "kolkota",
+      "city": "punjab",
+      "state": "india",
+      "pincode": "345653",
+      "age": "Between 41-60",
+      "occupation": "Education",
+      "status": true,
+      "creationDate": "16/08/2023",
+      "expiryDate": "15/09/2023",
+      "id": 9
+    },
+    {
+      "firstName": "Abi",
+      "lastName": "Krish",
+      "email": "abi1234@gmail.com",
+      "phoneNumber": "8888888888",
+      "address": "chennai",
+      "city": "neelankarai",
+      "state": "tamilnadu",
+      "pincode": "444444",
+      "age": "Between 41-60",
+      "occupation": "Business",
+      "status": true,
+      "creationDate": "22/08/2023",
+      "expiryDate": "21/09/2023",
+      "id": 10
+    },
+    {
+      "firstName": "Rajkamal",
+      "lastName": "sundhar",
+      "email": "sundhar@gmail.com",
+      "phoneNumber": "1234567875",
+      "address": "mumbai",
+      "city": "maharastra",
+      "state": "delhi",
+      "pincode": "876542",
+      "age": "Between 18-24",
+      "occupation": "Business",
+      "status": true,
+      "creationDate": "22/08/2023",
+      "expiryDate": "21/09/2023",
+      "id": 11
+    },
+    {
+      "firstName": "Vimal",
+      "lastName": "kumar",
+      "email": "kum12ar@gmail.com",
+      "phoneNumber": "987654323",
+      "address": "himalaya",
+      "city": "bihar",
+      "state": "simla",
+      "pincode": "987654",
+      "age": "Between 18-24",
+      "occupation": "Business",
+      "status": true,
+      "creationDate": "22/08/2023",
+      "expiryDate": "21/09/2023",
+      "id": 12
+    }
+  ],
+  "clinicalData": [
+    {
+      "title": "Welcome to jungle",
+      "objective": "As the sun rose over the horizon it awoke the jungle slowly and efficiently. Soon I could hear the morning birds chirp with all their heart and that triggered joy and excitement in my soul. A morning breeze toured the jungle making the flowers and leaves tango with rhythm and finesse as though they were experts. The lush evergreen trees stood so firm as if the roots were clinging for their very life, in the distance there was a Crystal River and a waterfall as its source. I could hear the rampaging rapids after the dip of the waterfall which slowly converted into a swift river forcefully turning at every bank. The river cut through the middle of the jungle and diverted into another as a tributary. Finally, the lions, the big…show more content ",
+      "contact": "Sam willey",
+      "phNumber": "345676567",
+      "studyCoordinator": "seeni",
+      "clinicalParticipants": {
+        "Akash": true,
+        "Abitha": true,
+        "Sadik": true
+      },
+      "id": 1
+    },
+    {
+      "title": "Study Program San Francisco",
+      "objective": "Idiopathic Pulmonary Fibrosis (IPF) is a chronic disease of unknown aetiology that is characterized by progressive fibrotic destruction of the lung, resulting in disabling dyspnoeaand poor gas exchange. The average life expectancy in IPF patients is 2-3 years. The only drug that has been registered in a number of countries for the treatment of IPF is pirfenidone. It was launched in Japan in 2008 under the brand name Pirespa® and was approved for the treatment of mild-to-moderate IPF in Europe and Canada in 2011 (under the brand name Esbriet®).",
+      "contact": "Nivash",
+      "phNumber": "8765467856",
+      "studyCoordinator": "raj",
+      "clinicalParticipants": {
+        "Akash": true,
+        "Rajesh": true,
+        "Sadik": true
+      },
+      "id": 2
+    },
+    {
+      "title": " Program For Francisco",
+      "objective": "Following the successful completion of a third Phase III trial (PIPF\u0002016, ASCEND) pirfenidone was recently approved by the US FDA for the treatment of IPF. Other pharmacologic options include corticosteroids, azathioprine, cyclophosphamide, and N-acetyl cysteine, albeit none of these has been proven efficacious in clinical trials compared with placebo, and none is indicated for the treatment of IPF. Thus, despite the availability of pirfenidone and the possibility of lung transplantation, the medical need for efficacious and safe treatment of IPF remains high. Nintedanib has been developed for the treatment of IPF and for several cancer types in two separate clinical development programmes. In IPF the clinical proof of concept for nintedanib was established in the 52-week phase II trial 1199.30P11-11216).",
+      "contact": "Willson ",
+      "phNumber": "555555586",
+      "studyCoordinator": "gokul",
+      "clinicalParticipants": {
+        "Akash": true,
+        "Rajesh": false,
+        "Sadik": true,
+        "Abitha": true
+      },
+      "id": 3
+    },
+    {
+      "title": "Good morning",
+      "objective": "Get up early. As the sun rose over the horizon it awoke the jungle slowly and efficiently. Soon I could hear the morning birds chirp with all their heart and that triggered joy and excitement in my soul. A morning breeze toured the jungle making the flowers and leaves tango with rhythm and finesse as though they were experts. The lush evergreen trees stood so firm as if the roots were clinging for their very life, in the distance there was a Crystal River and a waterfall as its source. I could hear the rampaging rapids after the dip of the waterfall which slowly converted into a swift river forcefully turning at every bank. The river cut through the middle of the jungle and diverted into another as a tributary. Finally, the lions, the big…show more content…\n",
+      "contact": "Sunny",
+      "phNumber": "1234567891",
+      "studyCoordinator": "abi",
+      "clinicalParticipants": {
+        "Akash": true,
+        "Abitha": true,
+        "Rajesh": true,
+        "Sadik": true
+      },
+      "id": 4
+    },
+    {
+      "title": "Welcome back",
+      "objective": "Objective is the main objective of the program.",
+      "contact": "Shaley",
+      "phNumber": "987656789",
+      "studyCoordinator": "rajesh",
+      "clinicalParticipants": {
+        "Akash": true,
+        "Abitha": true,
+        "Sadik": true
+      },
+      "id": 5
+    }
+  ]
+}
